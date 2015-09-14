@@ -4,7 +4,7 @@ As you can see from the left hand site panel in application, it's include a year
 
 This project using javaSE 6 as development standard, H2 Java SQL database, and it run via java web start.
 
-![alt tag](http://2.bp.blogspot.com/_DLts_cVMmgM/Se71EPFJQBI/AAAAAAAAAZg/fA_rsZXW2NA/s1600/reminder.JPG)
+![alt text](https://cloud.githubusercontent.com/assets/741594/9842069/72bd729a-5adb-11e5-9f84-9bb3bad2daaf.JPG "jvege-reminder")
 
 
 NOTE: This is project migrate from https://code.google.com/p/jvege-reminder/
